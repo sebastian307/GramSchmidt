@@ -4,7 +4,7 @@ Orthonormalizes a set of vectors or polynomials using the Gram-Schmidt process. 
 - basis is a list of numpyarrays which form the basis of a linear subspace
 - func_sp is the function calculation the inner product. Currently included are the dot product as well as a polynomial scalar product
 
-##Examples
+## Examples
 
 Calculation of an othonormal basis from a basis of a subspace of $R^{n}$:
 
